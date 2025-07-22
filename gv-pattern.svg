@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <pattern id="gvPattern" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
+      <text x="0" y="45" font-family="serif" font-size="40" fill="gold" font-weight="bold">GV</text>
+      <circle cx="55" cy="30" r="4" fill="gold"/>
+    </pattern>
+  </defs>
+  <rect width="120" height="120" fill="url(#gvPattern)"/>
+</svg>
